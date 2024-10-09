@@ -11,7 +11,15 @@ Please delete options that are not relevant.
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Code style update (formatting, renaming)
+- [ ] Refactoring (no functional change, no API changes)
 - [ ] This change requires a documentation update
+
+<!-- Describe the change that is being made -->
+**Proposed Changes**
+
+<!-- If the UI has changes, you can include images -->
+**Screenshots**
 
 # How Has This Been Tested?
 
